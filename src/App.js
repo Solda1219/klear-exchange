@@ -19,6 +19,7 @@ function App() {
         hostURL: window.location.origin,
         widgetHeight: "600px",
         widgetWidth: "400px",
+        
     }
 
     const openTransak = () => {
